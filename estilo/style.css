@@ -76,7 +76,7 @@ nav > a{
   padding: 10px;
   font-weight: bold;
   border-radius: 10px;
-  transition-duration: 0.5s;
+  transition-duration: 0.2s;
 }
 
 nav > a:hover{
